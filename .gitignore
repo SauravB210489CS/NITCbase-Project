@@ -1,0 +1,7 @@
+build/
+nitcbase
+nitcbase-debug
+*.o
+*.out
+.DS_Store
+
