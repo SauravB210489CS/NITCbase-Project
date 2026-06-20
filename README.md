@@ -14,6 +14,37 @@ The implementation starts from low-level disk operations and gradually builds hi
 
 ---
 
+## Build and Run
+
+Compile:
+
+make clean
+make
+
+Run:
+
+./nitcbase
+
+
+## Screenshots   ← paste here
+
+### Project Build
+![Project Build](screenshots/project-build.png)
+
+### Projection Output
+![Projection Output](screenshots/projection-output.png)
+
+### Selection Output
+![Selection Output](screenshots/select-output.png)
+
+### Join Output
+![Join Output](screenshots/join-output.png)
+
+### Rename Output
+![Rename Output](screenshots/rename-output.png)
+
+
+## Technologies Used
 ## Step-by-Step Implementation
 
 ### 1. Project Setup
